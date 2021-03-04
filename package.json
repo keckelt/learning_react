@@ -1,0 +1,12 @@
+{
+  "name": "learning_react",
+  "version": "1.0.0",
+  "description": "I'm learning react and track code and resources here.",
+  "author": "Klaus Eckelt",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keckelt/learning_react.git"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/keckelt/learning_react#readme"
+}
