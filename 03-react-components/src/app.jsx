@@ -1,15 +1,17 @@
-// react element:
-const reactElement = React.createElement(
-  'p', //create a paragraph
-  {},
-  `I'm a react element!`
-);
+'use strict';
+
+const domTarget = document.querySelector('#react-app');
+
 
 // react component:
-const jsxElement = <p id="jsx-elem">I am still a React component.</p> // will be translated to a create element
+class App extends React.Component {
+  render() {
+    return <p>My class-based react component.</p>
+  }
+}
 
 
 ReactDOM.render(
-  jsxElement, // use reactElement or jsxElement (needs rebuild if changed)
-  document.querySelector('#react-app')
+  <App />,
+  domTarget
 )
