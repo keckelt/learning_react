@@ -1,3 +1,3 @@
 export function Paragraph (props) {
-  return <p>{props.text} World!</p>;
+  return <p className="paragraph">{props.text} World!</p>;
 }
