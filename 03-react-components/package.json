@@ -1,0 +1,18 @@
+{
+  "name": "02-react-setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "compile": "babel src/ --out-dir public/lib",
+    "compile:watch": "babel src/ --out-dir public/lib --watch",
+    "start": "npx servor ./public --reload"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.13.0",
+    "@babel/core": "^7.13.8",
+    "@babel/preset-react": "^7.12.13"
+  }
+}
