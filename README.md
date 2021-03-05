@@ -8,3 +8,8 @@ I'm learning react and track code and resources here.
   * https://github.com/thenativeweb/techlounge-react
     * Part 1: Overview of React
     * Part 2: Hello World with React elements and JSX (and babel)
+    * Part 3: react components:  
+      * atomic elment of react app
+      * define components as classes or functions
+      * props as a component's input
+      * nesting components
