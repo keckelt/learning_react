@@ -6,7 +6,7 @@ export class App extends React.Component {
   render() {
     return (
       <div>
-        <Message headline="Hi React" text='Hej'/>
+        <Message headline="Hello React" text='Hej'/>
         <Message headline="Bye React" text='Hej då'/>
       </div>
       );
