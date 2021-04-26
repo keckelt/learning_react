@@ -13,3 +13,6 @@ I'm learning react and track code and resources here.
       * define components as classes or functions
       * props as a component's input
       * nesting components
+
+![image](https://user-images.githubusercontent.com/10337788/116060722-68d9de00-a682-11eb-9caf-b74536099a16.png)
+Source: https://www.thenativeweb.io/learning/techlounge-react
