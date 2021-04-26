@@ -1,3 +1,4 @@
+import React from 'react';
 import { Headline } from "./Headline";
 import { Paragraph } from "./Paragraph";
 
