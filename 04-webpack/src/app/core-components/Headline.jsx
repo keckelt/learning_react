@@ -1,9 +1,11 @@
 import React from 'react';
 
+import './Headline.css'
 export class Headline extends React.Component {
   render() {
     return (
-      <h1>{this.props.headline}</h1>
+      // use className instead of class! class is a reserved JS keyword
+      <h1 className="headline">{this.props.headline}</h1>
     );
   }
 }
