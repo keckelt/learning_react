@@ -4,7 +4,10 @@ I'm learning react and track code and resources here.
 
 ## :books: Resources
 
-* [Einführung in React Video Series](https://www.youtube.com/playlist?list=PL6QrD7_cU23newNJV_5XMwfgvlFrIHo0_)
+* [Einführung in React Video Series](https://www.youtube.com/playlist?list=PL6QrD7_cU23newNJV_5XMwfgvlFrIHo0_)  
+  ![image](https://user-images.githubusercontent.com/10337788/116060722-68d9de00-a682-11eb-9caf-b74536099a16.png)
+Source: https://www.thenativeweb.io/learning/techlounge-react
+
   * https://github.com/thenativeweb/techlounge-react
     * Part 1: Overview of React
     * Part 2: Hello World with React elements and JSX (and babel)
@@ -34,6 +37,4 @@ I'm learning react and track code and resources here.
         * [HTMLWebpackPlugin](https://webpack.js.org/plugins/html-webpack-plugin/): copies html files.
           this is a plugin, not a loader because its just copied over
           * also adds bundle.js (or an other used JS code) to index.html
-
-![image](https://user-images.githubusercontent.com/10337788/116060722-68d9de00-a682-11eb-9caf-b74536099a16.png)
-Source: https://www.thenativeweb.io/learning/techlounge-react
+ * [Bulletproof React](https://github.com/alan2207/bulletproof-react) A simple, scalable, and powerful architecture for building production ready React applications. 
